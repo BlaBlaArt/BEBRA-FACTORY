@@ -1,1 +1,3 @@
 *.vdf
+*.sav
+!*bebrus*
